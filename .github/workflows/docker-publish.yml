@@ -10,8 +10,8 @@ jobs:
 
   build:
     env:
-      IDENTIFICACAO_ALUNO: aluno?
-      DIRETORIO_WEBAPP: CAMINHO
+      IDENTIFICACAO_ALUNO: aluno18
+      DIRETORIO_WEBAPP: __APIContagem
 
     runs-on: ubuntu-latest
 
