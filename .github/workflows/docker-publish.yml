@@ -11,7 +11,7 @@ jobs:
   build:
     env:
       IDENTIFICACAO_ALUNO: aluno18
-      DIRETORIO_WEBAPP: __APIContagem
+      DIRETORIO_WEBAPP: __ASPNET5-Preview5_Docker__SiteContagem
 
     runs-on: ubuntu-latest
 
